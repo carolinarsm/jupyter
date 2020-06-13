@@ -1,5 +1,5 @@
 sphinx>=1.6
-sphinx-intl
+sphinx-intl==2.0.1
 recommonmark==0.4.0
 nbsphinx
 jupyter_sphinx_theme==0.0.6
